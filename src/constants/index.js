@@ -3,7 +3,7 @@ import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.jpg";
 
-export const HERO_CONTENT = `I am a passionate frontend developer with a keen interest in building dynamic and responsive web applications. With 4 months of internship experience, I have developed strong proficiency in technologies like React.js, Redux.js, TailwindCSS, HTML, JavaScript, and CSS3. My goal is to utilize my skills to create visually appealing and user-friendly interfaces that enhance user experiences and drive engagement.`;
+export const HERO_CONTENT = `I am a passionate frontend developer with a keen interest in building dynamic and responsive web applications. Currently, I am gaining valuable experience through an internship at Dimiour, where I am honing my skills in technologies like React.js, Redux.js, TailwindCSS, HTML, JavaScript, and CSS3. My goal is to utilize my expertise to create visually appealing and user-friendly interfaces that enhance user experiences and drive engagement`;
 
 export const ABOUT_TEXT = `I am a dedicated and versatile frontend developer with a passion for creating efficient and user-friendly web applications. With 4 months of internship experience, I have honed my skills in React.js, Redux.js, TailwindCSS, HTML, JavaScript, and CSS3. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
 
@@ -24,7 +24,7 @@ export const PROJECTS = [
     image: project1,
     description:
       "A fully functional e-commerce website with features like product listing, shopping cart, and wishlist.",
-    technologies: ["HTML", "CSS", "React", "Redux-toolkit", "Tailwind CSS"],
+    technologies: [ "React", "Redux-toolkit", "Tailwind CSS"],
     githubLink: "https://github.com/asif-max/OrebiShopping.git"
   },
   {
@@ -32,7 +32,7 @@ export const PROJECTS = [
     image: project2,
     description:
       "A website for a Hardware business company",
-    technologies: ["HTML", "CSS", "Angular", "Firebase"],
+    technologies: ["HTML", "React", "TailWind CSS"],
     githubLink: "https://github.com/asif-max/hardwareBusinessWebsite.git"
   },
   {
