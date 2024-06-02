@@ -1,7 +1,7 @@
 import project1 from "../assets/projects/project-1.jpg";
 import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
-import project4 from "../assets/projects/project-4.jpg";
+import project4 from "../assets/projects/project-6.jpeg";
 
 export const HERO_CONTENT = `I am a passionate frontend developer with a keen interest in building dynamic and responsive web applications. Currently, I am gaining valuable experience through an internship at Dimiour, where I am honing my skills in technologies like React.js, Redux.js, TailwindCSS, HTML, JavaScript, and CSS3. My goal is to utilize my expertise to create visually appealing and user-friendly interfaces that enhance user experiences and drive engagement`;
 
@@ -42,6 +42,14 @@ export const PROJECTS = [
       "A personal portfolio website showcasing projects, skills, and contact information.",
     technologies: ["HTML", "CSS", "React", "TailWind CSS"],
     githubLink: "https://github.com/asif-max"
+  },
+  {
+    title: "Modern Blog Website",
+    image: project4,
+    description:
+      "A modern Blog website with functionalities such as filtering,category, and search.",
+    technologies: ["HTML", "Redux", "React", "TailWind CSS"],
+    githubLink: "https://github.com/asif-max/blogRedux.git"
   },
   
 ];
