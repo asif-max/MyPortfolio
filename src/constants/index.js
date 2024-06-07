@@ -25,7 +25,7 @@ export const PROJECTS = [
     description:
       "A fully functional e-commerce website with features like product listing, shopping cart, and wishlist.",
     technologies: [ "React", "Redux-toolkit", "Tailwind CSS"],
-    githubLink: "https://github.com/asif-max/OrebiShopping.git"
+    githubLink: "https://orebi-shopping-ojdb387tw-asif-maxs-projects.vercel.app/"
   },
   {
     title: "Business website",
@@ -33,7 +33,7 @@ export const PROJECTS = [
     description:
       "A website for a Hardware business company",
     technologies: ["HTML", "React", "TailWind CSS"],
-    githubLink: "https://github.com/asif-max/hardwareBusinessWebsite.git"
+    githubLink: "https://github.com/asif-max/keyteeTarders.git"
   },
   {
     title: "Portfolio Website",
