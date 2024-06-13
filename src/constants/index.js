@@ -12,7 +12,7 @@ export const EXPERIENCES = [
     year: "2024 Feb - Present",
     role: "Front-End Developer Intern",
     company: "Dimiour",
-    description: `Developing dynamic UIs with React and JavaScript enhances user experience. Efficient state management using Redux and Redux Toolkit ensures seamless data handling. TailwindCSS and Figma streamline styling and design, optimizing interface appeal and functionality. Git enables robust version control and collaboration for codebase integrity.`,
+    description: `I worked with a team to develop dynamic UIs using React and JavaScript, pivotal for improving user experience. We implemented efficient state management through Redux and Redux Toolkit, ensuring smooth data handling. Styling and design were streamlined with TailwindCSS and Figma, enhancing both the visual appeal and functional effectiveness of interfaces. Git supported robust version control and collaboration, maintaining codebase integrity throughout the development process.`,
     technologies: ["Javascript", "React.js", "Redux.js", "HTML", "CSS"],
   },
   
