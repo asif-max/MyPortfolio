@@ -12,7 +12,7 @@ export const EXPERIENCES = [
     year: "2024 Feb - Present",
     role: "Front-End Developer Intern",
     company: "Dimiour",
-    description: `Led a team in developing and maintaining web applications using JavaScript, React.js, and Node.js. Implemented RESTful APIs and integrated with MongoDB databases. Collaborated with stakeholders to define project requirements and timelines.`,
+    description: `I worked with a team to develop dynamic UIs using React and JavaScript, pivotal for improving user experience. We implemented efficient state management through Redux and Redux Toolkit, ensuring smooth data handling. Styling and design were streamlined with TailwindCSS and Figma, enhancing both the visual appeal and functional effectiveness of interfaces. Git supported robust version control and collaboration, maintaining codebase integrity throughout the development process.`,
     technologies: ["Javascript", "React.js", "Redux.js", "HTML", "CSS"],
   },
   
