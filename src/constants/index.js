@@ -20,21 +20,21 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
   {
-    title: "E-Commerce Website",
+    title: "Business website",
     image: project1,
+    description:
+      "A website for a Digital marketing agency",
+    technologies: ["HTML", "React", "TailWind CSS","Emailjs"],
+    githubLink: "https://glyphads.com/"
+  },{
+    title: "E-Commerce Website",
+    image: project2,
     description:
       "A fully functional e-commerce website with features like product listing, shopping cart, and wishlist.",
     technologies: [ "React", "Redux-toolkit", "Tailwind CSS"],
     githubLink: "https://orebi-shopping-ojdb387tw-asif-maxs-projects.vercel.app"
   },
-  {
-    title: "Business website",
-    image: project2,
-    description:
-      "A website for a Hardware business company",
-    technologies: ["HTML", "React", "TailWind CSS"],
-    githubLink: "https://github.com/asif-max/keyteeTarders.git"
-  },
+  
   {
     title: "Portfolio Website",
     image: project3,
