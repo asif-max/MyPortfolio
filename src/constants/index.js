@@ -51,7 +51,14 @@ export const PROJECTS = [
     technologies: ["HTML", "Redux", "React", "TailWind CSS"],
     githubLink: "https://github.com/asif-max/blogRedux.git"
   },
-  
+  {
+    title: "Business website for a Drug supplier",
+    image: project1,
+    description:
+      "A website for a Digital marketing agency",
+    technologies: ["HTML", "TailWind CSS","Emailjs"],
+    githubLink: "https://dentaxon.com/"
+  }
 ];
 
 export const CONTACT = {
