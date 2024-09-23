@@ -9,12 +9,21 @@ export const ABOUT_TEXT = `I am a dedicated and versatile frontend developer wit
 
 export const EXPERIENCES = [
   {
-    year: "2024 Feb - Present",
+    "year": "2023 july - Present",
+    "role": "Front-End Developer",
+    "company": "Glyph Ads",
+    "description": `Collaborated with a team to create responsive and dynamic user interfaces using React and Next.js, improving both performance and user interaction. Utilized Redux for state management, ensuring efficient and consistent data flow across components. Leveraged TailwindCSS for styling, streamlining the design process while maintaining a visually appealing and cohesive look. Version control and collaboration were effectively managed using Git, ensuring smooth team coordination and code integrity throughout development.`,
+    "technologies": ["Next.js", "React.js", "TailwindCSS", "Redux.js"]
+  }
+,  
+  {
+    year: "2023 Feb - 2023 june",
     role: "Front-End Developer Intern",
     company: "Dimiour",
     description: `I worked with a team to develop dynamic UIs using React and JavaScript, pivotal for improving user experience. We implemented efficient state management through Redux and Redux Toolkit, ensuring smooth data handling. Styling and design were streamlined with TailwindCSS and Figma, enhancing both the visual appeal and functional effectiveness of interfaces. Git supported robust version control and collaboration, maintaining codebase integrity throughout the development process.`,
     technologies: ["Javascript", "React.js", "Redux.js", "HTML", "CSS"],
   },
+  
   
 ];
 
